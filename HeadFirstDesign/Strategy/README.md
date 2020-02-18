@@ -2,7 +2,7 @@
 
 1) Identify the aspects of  your application that vary and seperate them from what stays the same .
 
-Take what varies and <b>"encapsulate"</b> it so it wont affect the rest of your code.
+    Take what varies and <b>"encapsulate"</b> it so it wont affect the rest of your code.
 
 2) Program to an interface/supertype , not an implementation .
 
